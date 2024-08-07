@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: serban-backstage-dummy-repo
+  annotations:
+    github.com/project-slug: en-serbancarjan/serban-backstage-dummy-repo
+spec:
+  type: other
+  lifecycle: unknown
+  owner: sandbox
