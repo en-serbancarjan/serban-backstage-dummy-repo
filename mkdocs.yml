@@ -1,0 +1,7 @@
+site_name: 'serban-backstage-dummy-repo-docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core

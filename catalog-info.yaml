@@ -4,6 +4,7 @@ metadata:
   name: serban-backstage-dummy-repo
   annotations:
     github.com/project-slug: en-serbancarjan/serban-backstage-dummy-repo
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
